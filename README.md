@@ -37,7 +37,9 @@ The game supports 2–6 players with unique tokens such as 🦢 (Goose), 💻 (L
 ```bash
 please check Makefile in final_version
 
-###💡 Example Commands:
+---
+
+### 💡 Example Commands:
 roll: Roll dice and move
 trade Alice DC MC: Offer DC for MC from Alice
 improve EV3 buy: Buy improvement for EV3
