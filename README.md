@@ -36,7 +36,7 @@ The game supports 2–6 players with unique tokens such as 🦢 (Goose), 💻 (L
 ### 🔧 Compile:
 ```bash
 please check Makefile in final_version
-
+```
 ---
 
 ### 💡 Example Commands:
