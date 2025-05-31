@@ -40,9 +40,11 @@ please check Makefile in final_version
 ---
 
 ### 💡 Example Commands:
+```bash
 roll: Roll dice and move
 trade Alice DC MC: Offer DC for MC from Alice
 improve EV3 buy: Buy improvement for EV3
 mortgage ESC: Mortgage ESC
 bankrupt: Declare bankruptcy
 save game1.txt: Save game to file
+```
